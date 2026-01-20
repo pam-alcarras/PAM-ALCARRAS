@@ -19,6 +19,7 @@ Soy una profesional técnica en transición hacia la **Ciberseguridad**. Mi perf
 
 ---
 
-## 📁 Proyectos Destacados
-* 💻 **[Laboratorio ASIR]:** Configuraciones de red y administración de servidores.
-* 🔌 **[Hardware Lab]:** Documentación de reparaciones y prototipos con Arduino.
+  ## 📁 Proyectos Destacados
+
+* 💻 **[Laboratorio ASIR](https://github.com/pam-alcarras/Laboratorio-ASIR):** Configuraciones de red y administración de servidores.
+* 🔌 **[Hardware Lab](https://github.com/pam-alcarras/Hardware-Lab):** Documentación de reparaciones y prototipos con Arduino.
