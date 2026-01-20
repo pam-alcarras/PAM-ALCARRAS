@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="perfil.jpg" >
+</p>
+
 # Hola, soy Pamela Alcarrás (PAM JD LABS) 👋
 
 ### Administración de Sistemas (ASIR) | Especialista en Diagnóstico de Hardware
