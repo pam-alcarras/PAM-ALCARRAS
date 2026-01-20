@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hola, soy Pamela Alcarrás (PAM JD LABS) 👋
 
-<!--
-**PAM-ALCARRAS/PAM-ALCARRAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Administración de Sistemas (ASIR) | Especialista en Diagnóstico de Hardware
 
-Here are some ideas to get you started:
+Soy una profesional técnica en transición hacia la **Ciberseguridad**. Mi perfil combina la precisión del diagnóstico físico (microsoldadura) con la gestión de infraestructuras lógicas (redes y sistemas).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologías y Skills
+<p align="left">
+  <img src="https://img.shields.io/badge/Sistemas-Linux%20%26%20Windows-blue?style=flat-square&logo=linux" />
+  <img src="https://img.shields.io/badge/Redes-Cisco%20CCNA-orange?style=flat-square&logo=cisco" />
+  <img src="https://img.shields.io/badge/Hardware-Microsoldering-red?style=flat-square&logo=ifixit" />
+</p>
+
+- **Formación:** Actualmente cursando **ASIR** (Administración de Sistemas Informáticos en Red).
+- **Especialidad:** Diagnóstico de fallos en placa base y reparación de dispositivos móviles.
+- **Intereses:** Seguridad perimetral, Hardening de sistemas y electrónica con **Arduino**.
+
+---
+
+## 📁 Proyectos Destacados
+* 💻 **[Laboratorio ASIR]:** Configuraciones de red y administración de servidores.
+* 🔌 **[Hardware Lab]:** Documentación de reparaciones y prototipos con Arduino.
