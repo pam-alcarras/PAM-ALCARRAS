@@ -9,6 +9,10 @@
 
 Soy una profesional técnica en transición hacia la **Ciberseguridad**. Mi perfil combina la precisión del diagnóstico físico (microsoldadura) con la gestión de infraestructuras lógicas (redes y sistemas).
 
+<p align="center">
+  <img src="photo.PNG" width="450" style="border-radius: 10px; border: 2px solid #30363d;">
+</p>
+
 ---
 
 ## 🛠️ Tecnologías y Skills
