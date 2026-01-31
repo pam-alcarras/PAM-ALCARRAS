@@ -26,7 +26,7 @@ Soy una profesional técnica en transición hacia la **Ciberseguridad**. Mi perf
 
 
 <br>
-### Databases
+- **Databases**:
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
   &emsp;
